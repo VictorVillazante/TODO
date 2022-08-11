@@ -1,0 +1,33 @@
+2022-08-10 19:00:45 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODO" not found (this database is empty); SQL statement:
+select todoentity0_.id as id1_0_, todoentity0_.created_at as created_2_0_, todoentity0_.description as descript3_0_, todoentity0_.status as status4_0_, todoentity0_.updated_at as updated_5_0_ from todo todoentity0_ [42104-214]
+2022-08-10 19:03:07 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODO" not found (this database is empty); SQL statement:
+select todoentity0_.id as id1_0_, todoentity0_.created_at as created_2_0_, todoentity0_.description as descript3_0_, todoentity0_.status as status4_0_, todoentity0_.updated_at as updated_5_0_ from todo todoentity0_ [42104-214]
+2022-08-10 19:03:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODO" not found (this database is empty); SQL statement:
+select todoentity0_.id as id1_0_, todoentity0_.created_at as created_2_0_, todoentity0_.description as descript3_0_, todoentity0_.status as status4_0_, todoentity0_.updated_at as updated_5_0_ from todo todoentity0_ [42104-214]
+2022-08-10 19:04:24 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODO" not found (this database is empty); SQL statement:
+select todoentity0_.id as id1_0_, todoentity0_.created_at as created_2_0_, todoentity0_.description as descript3_0_, todoentity0_.status as status4_0_, todoentity0_.updated_at as updated_5_0_ from todo todoentity0_ [42104-214]
+2022-08-10 19:07:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODO" not found (this database is empty); SQL statement:
+select todoentity0_.id as id1_0_, todoentity0_.created_at as created_2_0_, todoentity0_.description as descript3_0_, todoentity0_.status as status4_0_, todoentity0_.updated_at as updated_5_0_ from todo todoentity0_ [42104-214]
+2022-08-10 19:09:25 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODO" not found (this database is empty); SQL statement:
+select todoentity0_.id as id1_0_, todoentity0_.created_at as created_2_0_, todoentity0_.description as descript3_0_, todoentity0_.status as status4_0_, todoentity0_.updated_at as updated_5_0_ from todo todoentity0_ [42104-214]
+2022-08-10 19:09:26 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODO" not found (this database is empty); SQL statement:
+select todoentity0_.id as id1_0_, todoentity0_.created_at as created_2_0_, todoentity0_.description as descript3_0_, todoentity0_.status as status4_0_, todoentity0_.updated_at as updated_5_0_ from todo todoentity0_ [42104-214]
+2022-08-10 19:09:27 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODO" not found (this database is empty); SQL statement:
+select todoentity0_.id as id1_0_, todoentity0_.created_at as created_2_0_, todoentity0_.description as descript3_0_, todoentity0_.status as status4_0_, todoentity0_.updated_at as updated_5_0_ from todo todoentity0_ [42104-214]
+2022-08-10 19:09:27 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODO" not found (this database is empty); SQL statement:
+select todoentity0_.id as id1_0_, todoentity0_.created_at as created_2_0_, todoentity0_.description as descript3_0_, todoentity0_.status as status4_0_, todoentity0_.updated_at as updated_5_0_ from todo todoentity0_ [42104-214]
+2022-08-10 19:09:27 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODO" not found (this database is empty); SQL statement:
+select todoentity0_.id as id1_0_, todoentity0_.created_at as created_2_0_, todoentity0_.description as descript3_0_, todoentity0_.status as status4_0_, todoentity0_.updated_at as updated_5_0_ from todo todoentity0_ [42104-214]
+2022-08-10 19:09:27 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODO" not found (this database is empty); SQL statement:
+select todoentity0_.id as id1_0_, todoentity0_.created_at as created_2_0_, todoentity0_.description as descript3_0_, todoentity0_.status as status4_0_, todoentity0_.updated_at as updated_5_0_ from todo todoentity0_ [42104-214]
